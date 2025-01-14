@@ -144,11 +144,11 @@ export default function Home() {
             <div>
               <h3 className="text-xl font-bold mb-4">Contact</h3>
               <div className="space-y-2">
-                <a href="mailto:contact@example.com" className="flex items-center gap-2 text-zinc-300 hover:text-zinc-100">
+                <a href="mailto:abhishek2000thakur17@gmail.com" className="flex items-center gap-2 text-zinc-300 hover:text-zinc-100">
                   <Mail className="w-5 h-5" />
                   abhishek2000thakur17@gmail.com
                 </a>
-                <a href="tel:+1234567890" className="flex items-center gap-2 text-zinc-300 hover:text-zinc-100">
+                <a href="tel:+918219584532" className="flex items-center gap-2 text-zinc-300 hover:text-zinc-100">
                   <Phone className="w-5 h-5" />
                   +91 821 958 4532
                 </a>
@@ -179,6 +179,9 @@ export default function Home() {
           <div className="mt-8 pt-8 border-t border-zinc-800 text-center text-zinc-400">
             <p>&copy; {new Date().getFullYear()} Abhishek Thakur. All rights reserved.</p>
           </div>
+        </div>
+        <div className="flex justify-end p-4">
+          <a href="https://www.linkedin.com/company/devpeakinnovations/" target="_blank" rel="noopener noreferrer" className="text-zinc-300 hover:text-zinc-100 text-xs">Powered by DevPeak Innovations</a>
         </div>
       </footer>
     </div>
