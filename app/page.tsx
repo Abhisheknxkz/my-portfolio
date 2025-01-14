@@ -75,7 +75,7 @@ export default function Home() {
             <a href="#projects" className="border border-zinc-100 px-6 py-3 rounded-lg hover:bg-zinc-800 transition">
               View Work
             </a>
-            <a href="#projects" className="border border-zinc-100 px-6 py-3 rounded-lg hover:bg-zinc-800 transition">
+            <a href="/Abhishek-resume.pdf" download className="border border-zinc-100 px-6 py-3 rounded-lg hover:bg-zinc-800 transition">
               Download Resume
             </a>
           </div>
